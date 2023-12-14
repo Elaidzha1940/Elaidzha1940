@@ -1,10 +1,8 @@
 💫 About Me:
 -------------------------------------------------------------------------------------------- 
-🌱 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
-🔭 Currently, building beautiful apps with Swift & SwiftUI 💙.
-
-* 🌍 I'm based in Kazakhstan
-* 🧠 I'm learning Swift Concurency
+I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
+* 🌱 Currently, building beautiful apps with Swift & SwiftUI.
+* 🔭 Building Trivia Game App: iOS.
 
 🌐 Socials:
 ---------------------------------------------------------------------------------------------
