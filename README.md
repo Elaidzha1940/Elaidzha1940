@@ -29,11 +29,3 @@ I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 🔭 Currently, build
 
 
 <a href="https://github.com/Elaidzha1940" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaidzha1940&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Elaidzha1940/The-Crypto-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elaidzha1940&repo=The-Crypto-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elaidzha1940/ChatApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elaidzha1940&repo=ChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Elaidzha1940/Unit_Testing" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elaidzha1940&repo=Unit_Testing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elaidzha1940/UserOnboardingwith-AppStorage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elaidzha1940&repo=UserOnboardingwith-AppStorage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
