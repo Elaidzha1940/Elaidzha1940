@@ -1,5 +1,5 @@
 💫 About Me:
----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------- 
 🌱 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
 🔭 Currently, building beautiful apps with Swift & SwiftUI 💙.
 
