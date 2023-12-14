@@ -4,7 +4,6 @@
 🔭 Currently, building beautiful apps with Swift & SwiftUI 💙.
 
 * 🌍 I'm based in Kazakhstan
-* ✉️  You can contact me at [elishchukin0491@gmail.com](mailto:elishchukin0491@gmail.com)
 * 🧠 I'm learning Swift Concurency
 
 ### 🌐 Socials:
