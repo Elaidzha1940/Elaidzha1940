@@ -1,6 +1,6 @@
 About Me:
 -------------------------------------------------------------------------------------------------------------------------
-I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
+👋 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
 🔭 Currently, building beautiful apps with Swift & SwiftUI 💙.
 
 * 🌍 I'm based in Kazakhstan
