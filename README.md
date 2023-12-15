@@ -12,7 +12,8 @@ I'm Elaidzha Shchukin, Mobile Developer & Content Creator.
 
 💻 Tech Stack:
 ---------------------------------------------------------------------------------------------
-![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) ![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange)
+![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) ![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) ![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=plastic&logo=swift&logoColor=black&labelColor=blue&color=black)
+
 
 
 <p align="left">
