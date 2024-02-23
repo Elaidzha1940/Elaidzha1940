@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------- 
 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
 * 🌱 Currently, building beautiful apps with Swift & SwiftUI.
-* 🔭 Building Trivia Game App: iOS.
+* 🔭 Building  Quiz Questions Game App: iOS.
 
 🌐 Socials:
 ---------------------------------------------------------------------------------------------
