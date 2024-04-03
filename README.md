@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Elaidzha1940&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 💫 About Me:
 -------------------------------------------------------------------------------------------- 
 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
