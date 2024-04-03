@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Elaidzha1940&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
 💫 About Me:
 -------------------------------------------------------------------------------------------- 
 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
@@ -21,3 +19,6 @@ I'm Elaidzha Shchukin, Mobile Developer & Content Creator.
 <a href="http://www.github.com/Elaidzha1940"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elaidzha1940&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Elaidzha1940" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaidzha1940&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![](https://visitcount.itsvg.in/api?id=Elaidzha1940&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
