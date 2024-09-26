@@ -2,7 +2,7 @@
 ------------
 I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
 * 🌱 Currently, building beautiful apps with Swift & UIKit / SwiftUI.
-* 🔭 Building "Quiz Questions" Game & TipMe Apps: iOS.
+* 🔭 Building "Quiz Questions" Game App: iOS.
 
 🌐 Socials:
 -------------
