@@ -1,6 +1,6 @@
 🦄 About Me:
 ------------
-I'm Elaidzha Shchukin, Mobile Developer & Content Creator. 
+I'm Elaidzha, an accomplished Mobile Engineer and Developer.
 * 🌱 Currently, building beautiful apps with Swift & UIKit / SwiftUI.
 * 🔭 Building "Quiz Questions" Game App: iOS.
 
