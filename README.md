@@ -1,5 +1,5 @@
 🦄 About Me:
------
+----- 
 
 #### I'm Elaidzha, an accomplished Mobile Engineer and Developer.
 * 🌱 Currently, building beautiful apps with Swift & UIKit / SwiftUI.
