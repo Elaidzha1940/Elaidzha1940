@@ -7,18 +7,29 @@
 
 💻 Tech Stack:
 -----
+💻 Tech Stack:
+-----
 ![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) 
 ![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
 ![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=plastic&logo=swift&logoColor=black&labelColor=blue&color=black) 
 ![Static Badge](https://img.shields.io/badge/UIKit-lightgrey?style=plastic&logo=apple&logoColor=black&labelColor=lightgrey&color=lightgrey) 
 ![Static Badge](https://img.shields.io/badge/Combine-darkblue?style=plastic&logo=swift&logoColor=white&labelColor=darkblue&color=darkblue) 
 ![Static Badge](https://img.shields.io/badge/Core%20Data-purple?style=plastic&logo=coredata&logoColor=white&labelColor=purple&color=purple) 
+![Static Badge](https://img.shields.io/badge/Realm-lightgreen?style=plastic&logo=realm&logoColor=white&labelColor=green&color=green) 
 ![Static Badge](https://img.shields.io/badge/MVVM-darkgreen?style=plastic&logo=architect&logoColor=white&labelColor=darkgreen&color=darkgreen) 
 ![Static Badge](https://img.shields.io/badge/Networking-blue?style=plastic&logo=swift&logoColor=white&labelColor=navy&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Concurrency-green?style=plastic&logo=swift&logoColor=white&labelColor=green&color=green) 
-![Static Badge](https://img.shields.io/badge/Unit%20Testing-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
+![Static Badge](https://img.shields.io/badge/GCD-grey?style=plastic&logo=swift&logoColor=white&labelColor=darkgrey&color=grey) 
+![Static Badge](https://img.shields.io/badge/Lottie-red?style=plastic&logo=animation&logoColor=white&labelColor=red&color=red) 
+![Static Badge](https://img.shields.io/badge/Core%20Animation-pink?style=plastic&logo=animation&logoColor=white&labelColor=pink&color=pink) 
+![Static Badge](https://img.shields.io/badge/Algorithms-orange?style=plastic&logo=algorithm&logoColor=white&labelColor=darkorange&color=orange) 
+![Static Badge](https://img.shields.io/badge/CocoaPods%20/%20SPM-lightblue?style=plastic&logo=cocoapods&logoColor=white&labelColor=lightblue&color=lightblue) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=Xcode&labelColor=black&color=black) 
+![Static Badge](https://img.shields.io/badge/macOS-black?style=plastic&logo=macOS&logoColor=red-orange&labelColor=black&color=black) 
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&color=black) 
+![Static Badge](https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white&labelColor=orange&color=orange) 
+![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=white&labelColor=blue&color=blue) 
 
 🌐 Socials:
 -----
