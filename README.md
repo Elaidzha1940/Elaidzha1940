@@ -6,12 +6,13 @@
 * 🔭 Building "Quiz Questions" Game App: iOS. * **Quiz Questions**: A game app challenging your knowledge. (In progress)
 
 * 🦄 About Me:
------  
+----- 
+
 #### Hi, I'm Elaidzha! 👋
 ##### I’m a passionate Mobile Engineer and Developer with a strong focus on crafting beautiful and functional iOS applications.
 
-🌱 Currently exploring innovative app development with Swift, UIKit, and SwiftUI.
-⍰ Working on Quiz Questions: An exciting iOS game app that challenges your knowledge and keeps you entertained (In progress).
+- 🌱 Currently exploring innovative app development with Swift, UIKit, and SwiftUI.
+- ⍰ Working on Quiz Questions: An exciting iOS game app that challenges your knowledge and keeps you entertained (In progress).
 
 ### ⌨️ Tech Stack:
 
