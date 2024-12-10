@@ -30,9 +30,7 @@
 ![Static Badge](https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white&labelColor=orange&color=orange) 
 ![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=white&labelColor=blue&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Core%20ML-lightpink?style=plastic&logo=machinelearning&logoColor=white&labelColor=lightpink&color=pink) 
-![Static Badge](https://img.shields.io/badge/ARKit-lightgrey?style=plastic&logo=arkit&logoColor=white&labelColor=lightgrey&color=lightgrey) 
 ![Static Badge](https://img.shields.io/badge/CI/CD%20Tools-lightpurple?style=plastic&logo=ci&logoColor=white&labelColor=purple&color=lightpurple) 
-![Static Badge](https://img.shields.io/badge/App%20Distribution-lightorange?style=plastic&logo=appstore&logoColor=white&labelColor=orange&color=lightorange) 
 
 💻 Tech Stack:
 -----
