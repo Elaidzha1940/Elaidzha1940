@@ -34,6 +34,20 @@
 ![Static Badge](https://img.shields.io/badge/CI/CD%20Tools-lightpurple?style=plastic&logo=ci&logoColor=white&labelColor=purple&color=lightpurple) 
 ![Static Badge](https://img.shields.io/badge/App%20Distribution-lightorange?style=plastic&logo=appstore&logoColor=white&labelColor=orange&color=lightorange) 
 
+💻 Tech Stack:
+-----
+![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) 
+![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
+![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=plastic&logo=swift&logoColor=black&labelColor=blue&color=black) 
+![Static Badge](https://img.shields.io/badge/UIKit-lightgrey?style=plastic&logo=apple&logoColor=black&labelColor=lightgrey&color=lightgrey) 
+![Static Badge](https://img.shields.io/badge/Core%20Data-purple?style=plastic&logo=coredata&logoColor=white&labelColor=purple&color=purple) 
+![Static Badge](https://img.shields.io/badge/MVVM-darkgreen?style=plastic&logo=architect&logoColor=white&labelColor=darkgreen&color=darkgreen) 
+![Static Badge](https://img.shields.io/badge/Networking-blue?style=plastic&logo=swift&logoColor=white&labelColor=navy&color=blue) 
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&color=black) 
+![Static Badge](https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white&labelColor=orange&color=orange) 
+![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=white&labelColor=blue&color=blue) 
+
+
 🌐 Socials:
 -----
 <p align="left"> 
