@@ -5,6 +5,15 @@
 * 🌱 Currently, building beautiful apps with Swift & UIKit / SwiftUI.
 * 🔭 Building "Quiz Questions" Game App: iOS.
 
+* 🦄 About Me:
+-----
+
+#### Hi, I'm Elaidzha! 👋
+* 💻 Passionate Mobile Engineer specializing in building beautiful and efficient iOS applications.  
+* 🌟 Skilled in both **UIKit** and **SwiftUI** for creating seamless user experiences.  
+* 🎯 Currently working on **"Quiz Questions"**, a challenging and fun iOS game.  
+
+
 ### ⌨️ Tech Stack:
 
 ![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) 
