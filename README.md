@@ -24,8 +24,6 @@
 ![Static Badge](https://img.shields.io/badge/JSON/XML%20Parsing-yellow?style=plastic&logo=api&logoColor=black&labelColor=yellow&color=yellow) 
 ![Static Badge](https://img.shields.io/badge/CocoaPods%20/%20SPM-lightblue?style=plastic&logo=cocoapods&logoColor=white&labelColor=lightblue&color=lightblue) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
-![Static Badge](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=Xcode&labelColor=black&color=black) 
-![Static Badge](https://img.shields.io/badge/macOS-black?style=plastic&logo=macOS&logoColor=red-orange&labelColor=black&color=black) 
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&color=black) 
 ![Static Badge](https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white&labelColor=orange&color=orange) 
 ![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=white&labelColor=blue&color=blue) 
