@@ -22,22 +22,8 @@
 ![Static Badge](https://img.shields.io/badge/CocoaPods%20/%20SPM-lightblue?style=plastic&logo=cocoapods&logoColor=white&labelColor=lightblue&color=lightblue) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
 
-💻 Tech Stack:
------
-![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) 
-![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
-![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=plastic&logo=swift&logoColor=black&labelColor=blue&color=black) 
-![Static Badge](https://img.shields.io/badge/UIKit-lightgrey?style=plastic&logo=apple&logoColor=black&labelColor=lightgrey&color=lightgrey) 
-![Static Badge](https://img.shields.io/badge/Core%20Data-purple?style=plastic&logo=coredata&logoColor=white&labelColor=purple&color=purple) 
-![Static Badge](https://img.shields.io/badge/MVVM-darkgreen?style=plastic&logo=architect&logoColor=white&labelColor=darkgreen&color=darkgreen) 
-![Static Badge](https://img.shields.io/badge/Networking-blue?style=plastic&logo=swift&logoColor=white&labelColor=navy&color=blue) 
-![Static Badge](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&color=black) 
-![Static Badge](https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white&labelColor=orange&color=orange) 
-![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=white&labelColor=blue&color=blue) 
+### 🌐 Socials:
 
-
-🌐 Socials:
------
 <p align="left"> 
   <a href="https://www.github.com/Elaidzha1940" target="_blank" rel="noreferrer"> 
     <picture> 
@@ -70,8 +56,8 @@
 </p>
 
 
-📊 GitHub Stats:
------
+### 📊 GitHub Stats:
+
 <a href="http://www.github.com/Elaidzha1940"><img src="https://github-readme-stats.vercel.app/api?username=Elaidzha1940&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elaidzha1940's GitHub stats" /></a>
 
 <a href="http://www.github.com/Elaidzha1940"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elaidzha1940&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
