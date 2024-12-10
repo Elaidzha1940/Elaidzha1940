@@ -18,8 +18,6 @@
 ![Static Badge](https://img.shields.io/badge/CocoaPods%20/%20SPM-lightblue?style=plastic&logo=cocoapods&logoColor=white&labelColor=lightblue&color=lightblue) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
 
-### 🌐 Socials:
-
 ### 🌐 Find me on:
 Connect with me on social media:
 
@@ -53,6 +51,12 @@ Connect with me on social media:
     </picture> 
   </a>
 </p>
+
+### 📊 GitHub Stats:
+
+<a href="http://www.github.com/Elaidzha1940">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elaidzha1940&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elaidzha's GitHub stats" />
+</a>
 
 
 ### 📊 GitHub Stats:
