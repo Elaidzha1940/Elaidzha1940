@@ -14,13 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/Combine-darkblue?style=plastic&logo=swift&logoColor=white&labelColor=darkblue&color=darkblue) 
 ![Static Badge](https://img.shields.io/badge/Core%20Data-purple?style=plastic&logo=coredata&logoColor=white&labelColor=purple&color=purple) 
 ![Static Badge](https://img.shields.io/badge/MVVM-darkgreen?style=plastic&logo=architect&logoColor=white&labelColor=darkgreen&color=darkgreen) 
+![Static Badge](https://img.shields.io/badge/Networking-blue?style=plastic&logo=swift&logoColor=white&labelColor=navy&color=blue) 
+![Static Badge](https://img.shields.io/badge/Concurrency-green?style=plastic&logo=swift&logoColor=white&labelColor=green&color=green) 
+![Static Badge](https://img.shields.io/badge/Unit%20Testing-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=Xcode&labelColor=black&color=black) 
-![Static Badge](https://img.shields.io/badge/macOS-black?style=plastic&logo=macOS&logoColor=red-orange&labelColor=black&color=black) 
-![Static Badge](https://img.shields.io/badge/Slack-white?style=plastic&logo=slack&logoColor=white&labelColor=violet&color=black) 
-![Static Badge](https://img.shields.io/badge/Notion-white?style=plastic&logo=notion&logoColor=white&labelColor=black&color=black) 
-![Static Badge](https://img.shields.io/badge/ClickUp-white?style=plastic&logo=clickUp&logoColor=white&labelColor=blue&color=black)
-
 
 🌐 Socials:
 -----
