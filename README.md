@@ -13,6 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/UIKit-lightgrey?style=plastic&logo=apple&logoColor=black&labelColor=lightgrey&color=lightgrey) 
 ![Static Badge](https://img.shields.io/badge/Combine-darkblue?style=plastic&logo=swift&logoColor=white&labelColor=darkblue&color=darkblue) 
 ![Static Badge](https://img.shields.io/badge/Core%20Data-purple?style=plastic&logo=coredata&logoColor=white&labelColor=purple&color=purple) 
+![Static Badge](https://img.shields.io/badge/Networking-blue?style=plastic&logo=swift&logoColor=white&labelColor=navy&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Lottie-red?style=plastic&logo=animation&logoColor=white&labelColor=red&color=red) 
 ![Static Badge](https://img.shields.io/badge/CocoaPods%20/%20SPM-lightblue?style=plastic&logo=cocoapods&logoColor=white&labelColor=lightblue&color=lightblue) 
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
