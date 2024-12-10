@@ -20,6 +20,9 @@
 
 ### 🌐 Socials:
 
+### 🌐 Find me on:
+Connect with me on social media:
+
 <p align="left"> 
   <a href="https://www.github.com/Elaidzha1940" target="_blank" rel="noreferrer"> 
     <picture> 
