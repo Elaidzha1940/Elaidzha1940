@@ -21,7 +21,6 @@
 ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=plastic&logo=firebase&labelColor=blue&color=blue) 
 
 ### 🌐 Find me on:
-Connect with me on social media:
 
 <p align="left"> 
   <a href="https://www.github.com/Elaidzha1940" target="_blank" rel="noreferrer"> 
