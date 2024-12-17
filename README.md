@@ -7,7 +7,7 @@
 - 🌱 Currently exploring innovative app development with Swift, UIKit, and SwiftUI.
 - 🗺️ Working on Quiz Questions: An exciting iOS game app that challenges your knowledge and keeps you entertained (In progress).
 
-> ### ⌨️ Tech Stack:
+### ⌨️ Tech Stack:
 
 ![Static Badge](https://img.shields.io/badge/IOS-grey?style=plastic&logo=apple&logoColor=white&labelColor=grey&color=grey) 
 ![Static Badge](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white&labelColor=orange&color=orange) 
