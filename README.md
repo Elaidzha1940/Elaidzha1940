@@ -1,7 +1,7 @@
 🦄 About Me:
 ----- 
 
-#### Hi, I'm Elaidzha! 👋
+#### Hi, I'm Elijah! 👋
 ##### I’m a passionate Mobile Engineer and Developer with a strong focus on crafting beautiful and functional iOS applications.
 
 - 🌱 Currently exploring innovative app development with Swift, UIKit, and SwiftUI.
