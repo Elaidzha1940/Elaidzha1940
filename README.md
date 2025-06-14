@@ -63,5 +63,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Elaidzha1940&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Elaidzha1940)
 
 -----
