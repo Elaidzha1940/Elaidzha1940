@@ -1,5 +1,5 @@
 🦄 About Me:
------ 
+-----  
 
 #### Hi, I'm Elijah! 👋
 ##### I’m a passionate Mobile Engineer and Developer with a strong focus on crafting beautiful and functional iOS applications.
