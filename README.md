@@ -8,7 +8,7 @@ Focused on performance, clean design, and smooth user experience.
 
 🏆 Featured Project  
 **QuizMaster** - A sleek trivia app for iOS  
-- Built with Swift, SwiftUI, MVVM, Combine, and AppStorage  
+- Built with SwiftUI, Combine, and MVVM - includes Lottie, Haptics, SwiftLint & AppStorage
 - Supports real-time feedback, animations, and smooth transitions  
 📱 [Download on the App Store](https://apps.apple.com/your-link)
 
