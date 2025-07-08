@@ -1,14 +1,10 @@
-🦄 About Me:
------  
-
 # 👋 Hi, I'm Elijah  
 ### 🚀 iOS Developer | Swift · SwiftUI · UIKit
 
 Crafting clean, intuitive apps with a focus on performance, UX, and elegant architecture.
 
------
 
-## 🧠 Featured App  
+## 🧠 🦄 Featured App  
 ### **QuizMaster** - Fast-paced trivia game to test your knowledge  
 📱 Built with Swift, SwiftUI, MVVM, Combine  
 🛒 [Available on the App Store](https://apps.apple.com/your-link)
