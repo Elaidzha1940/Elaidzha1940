@@ -2,7 +2,6 @@
 ### 🚀 iOS Developer | Swift · SwiftUI · UIKit
 
 #### Crafting clean, intuitive apps with a focus on performance, UX, and elegant architecture.
----
 
 ## 🦄 Featured App  
 ### **QuizMaster** - Fast-paced trivia game to test your knowledge  
