@@ -23,6 +23,12 @@ Focused on performance, clean design, and smooth user experience.
 [Download on the App Store](https://apps.apple.com/your-link)
 
 
+🏆 Featured Project  
+**QuizMaster** — A sleek trivia app for iOS  
+- Built with Swift, SwiftUI, MVVM, Combine, and CoreData  
+- Supports real-time feedback, animations, and smooth transitions  
+📱 [Download on the App Store](https://apps.apple.com/your-link)
+
 -----
 
 ### ⌨️ Tech Stack:
