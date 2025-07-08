@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elijah  
 ### 🚀 iOS Developer | Swift · SwiftUI · UIKit
 
-### Crafting clean, intuitive apps with a focus on performance, UX, and elegant architecture.
+# Crafting clean, intuitive apps with a focus on performance, UX, and elegant architecture.
 
 
 ## 🧠 🦄 Featured App  
