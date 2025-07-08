@@ -13,6 +13,16 @@ Focused on performance, clean design, and smooth user experience.
 - Real-time feedback, beautiful UI, and smooth navigation  
   [Download on the App Store](https://apps.apple.com/your-link)
 
+
+
+  🏆 Featured Project  
+**QuizMaster** — a fast and fun trivia game to challenge your brain  
+- 📱 iOS only  
+- 🧠 Built with: Swift, SwiftUI, MVVM, Combine  
+- 🧩 Features: Real-time answer feedback, smooth navigation, local storage  
+[Download on the App Store](https://apps.apple.com/your-link)
+
+
 -----
 
 ### ⌨️ Tech Stack:
