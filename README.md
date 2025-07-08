@@ -4,9 +4,10 @@
 #### Hi, I'm Elijah! 👋
 ##### I’m a passionate Mobile Engineer and Developer with a strong focus on crafting beautiful and functional iOS applications.
 
-- 🌱 Currently exploring innovative app development with Swift, UIKit, and SwiftUI.
-- 🚀 Released **QuizMaster**, a trivia iOS game built with Swift & UIKit.  
-  📱 [Download on the App Store](https://apps.apple.com/your-link)
+- 🌱 iOS Developer | Swift, SwiftUI, UIKit
+
+- 🚀 Released **QuizMaster**, a trivia iOS game built with Swift & SwiftUI.  
+  📱 [App Store](https://apps.apple.com/your-link)
 
 ### ⌨️ Tech Stack:
 
