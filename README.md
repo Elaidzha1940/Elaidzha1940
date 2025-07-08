@@ -1,4 +1,4 @@
-👋 Hi, I'm Elijah  
+### 👋 Hi, I'm Elijah  
 🚀 iOS Developer | Swift · SwiftUI · UIKit  
 
 I'm passionate about building sleek, intuitive, and high-quality apps for iOS.  
@@ -7,7 +7,7 @@ Focused on performance, clean design, and smooth user experience.
 ---
 
 🏆 Featured Project  
-**QuizMaster** — A sleek trivia app for iOS  
+**QuizMaster** - A sleek trivia app for iOS  
 - Built with Swift, SwiftUI, MVVM, Combine, and AppStorage  
 - Supports real-time feedback, animations, and smooth transitions  
 📱 [Download on the App Store](https://apps.apple.com/your-link)
