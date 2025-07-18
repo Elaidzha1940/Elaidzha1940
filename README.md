@@ -12,7 +12,6 @@ Focused on performance, clean design, and smooth user experience.
 - Supports real-time feedback, animations, and smooth transitions  
   [Download on the App Store](https://apps.apple.com/your-link)
 
----
 
 ### 🩺 Currently Building
 #### **LymphAtlas** (Nodes) - A clinical anatomy tool for doctors
