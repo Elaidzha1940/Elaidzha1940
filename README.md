@@ -14,11 +14,11 @@ Focused on performance, clean design, and smooth user experience.
 
 
 ### 🩺 Currently Building
-#### **LymphAtlas** (Nodes) - A clinical anatomy tool for doctors
-- An iOS anatomy tool for doctors to explore lymph node structures
-- Built with SwiftUI, MVVM & modular architecture
+#### **Lymph Atlas** (Nodes) - A clinical anatomy tool for doctors
+- iOS anatomy tool for exploring lymph node structures
+- Built with SwiftUI & UIKit, MVVM & modular architecture
 - Focused on clarity, precision, and clean clinical UI
-  In active development
+[Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
 
 -----
 
