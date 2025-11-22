@@ -9,8 +9,8 @@ Focused on performance, clean design, and smooth user experience.
 ### 🏆 Featured Project   
 #### **QuizMaster** - A sleek trivia app for iOS  
 - Built with SwiftUI, Combine, and MVVM - includes Lottie, Haptics, SwiftLint & AppStorage
-- Supports real-time feedback, animations, and smooth transitions  
-  [Download on the App Store](https://apps.apple.com/your-link)
+- Supports real-time feedback, animations, and smooth transitions
+- [Download on the App Store](https://apps.apple.com/your-link)
 
 
 ### 🩺 Currently Building
@@ -18,7 +18,7 @@ Focused on performance, clean design, and smooth user experience.
 - iOS anatomy tool for exploring lymph node structures
 - Built with SwiftUI & UIKit, MVVM & modular architecture
 - Focused on clarity, precision, and clean clinical UI
-  [Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
+- [Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
 
 -----
 
