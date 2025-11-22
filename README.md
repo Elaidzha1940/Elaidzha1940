@@ -12,8 +12,6 @@ Focused on performance, clean design, and smooth user experience.
 - Supports real-time feedback, animations, and smooth transitions
 - [Download on the App Store](https://apps.apple.com/your-link)
 
-
-### 🩺 Lymph Atlas
 #### **Lymph Atlas** (Nodes) - A clinical anatomy tool for doctors
 - iOS anatomy tool for exploring lymph node structures
 - Built with SwiftUI & UIKit, MVVM & modular architecture
