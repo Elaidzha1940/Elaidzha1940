@@ -18,7 +18,7 @@ Focused on performance, clean design, and smooth user experience.
 - iOS anatomy tool for exploring lymph node structures
 - Built with SwiftUI & UIKit, MVVM & modular architecture
 - Focused on clarity, precision, and clean clinical UI
-[Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
+  [Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
 
 -----
 
