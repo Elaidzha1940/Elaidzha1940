@@ -9,7 +9,7 @@
 
 ### 🏆 Featured Projects
 
-#### QuizMaster — A sleek trivia app for iOS
+#### QuizMaster - A sleek trivia app for iOS
 
 - Personal product released on the App Store
 - Built with SwiftUI, Combine, and MVVM
@@ -17,7 +17,7 @@
 - Focused on smooth UX, animations, and real-time feedback
 - [Download on the App Store](https://apps.apple.com/kz/app/quizm-trivia-quiz-game/id6747933831)
 
-### Lymph Atlas (Nodes) — Clinical anatomy tool for doctors
+### Lymph Atlas (Nodes) - Clinical anatomy tool for doctors
 - Production iOS app designed for medical professionals
 - Helps explore lymph node structures with clarity and precision
 - Built with SwiftUI & UIKit, MVVM, and modular architecture
