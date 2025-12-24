@@ -1,8 +1,10 @@
-## 👋🏻 Hi, I'm Elijah  
-## ⌨️ iOS Engineer | Swift · SwiftUI · UIKit  
+👋🏻 Hi, I'm Elijah
+⌨️ iOS Engineer | Swift · SwiftUI · UIKit
 
-I'm passionate about building sleek, intuitive, and high-quality apps for iOS.  
-Focused on performance, clean design, and smooth user experience.
+iOS Engineer with commercial experience building apps for companies and shipping personal products to the App Store.
+Focused on performance, clean architecture, and smooth user experience in production apps.
+
+Experienced with 7–8 commercial iOS projects (NDA) and full App Store release cycles.
 
 ---
 
