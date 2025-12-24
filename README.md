@@ -1,5 +1,5 @@
-👋🏻 Hi, I'm Elijah
-⌨️ iOS Engineer | Swift · SwiftUI · UIKit
+### 👋🏻 Hi, I'm Elijah
+### ⌨️ iOS Engineer | Swift · SwiftUI · UIKit
 
 iOS Engineer with commercial experience building apps for companies and shipping personal products to the App Store.
 Focused on performance, clean architecture, and smooth user experience in production apps.
@@ -8,17 +8,30 @@ Experienced with 7–8 commercial iOS projects (NDA) and full App Store release 
 
 ---
 
-### 🏆 Featured Project   
-#### **QuizMaster** - A sleek trivia app for iOS  
-- Built with SwiftUI, Combine, and MVVM - includes Lottie, Haptics, SwiftLint & AppStorage
-- Supports real-time feedback, animations, and smooth transitions
-- [Download on the App Store](https://apps.apple.com/kz/app/quizm-trivia-quiz-game/id6747933831)
+### 🏆 Featured Projects
 
-#### **Lymph Atlas** (Nodes) - A clinical anatomy tool for doctors
-- iOS anatomy tool for exploring lymph node structures
-- Built with SwiftUI & UIKit, MVVM & modular architecture
-- Focused on clarity, precision, and clean clinical UI
-- [Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
+#### QuizMaster — A sleek trivia app for iOS
+
+- Personal product released on the App Store
+- Built with SwiftUI, Combine, and MVVM
+- Includes Lottie animations, Haptics, SwiftLint & AppStorage
+- Focused on smooth UX, animations, and real-time feedback
+- Download on the App Store 
+
+### Lymph Atlas (Nodes) — Clinical anatomy tool for doctors
+- Production iOS app designed for medical professionals
+- Helps explore lymph node structures with clarity and precision
+- Built with SwiftUI & UIKit, MVVM, and modular architecture
+- Emphasis on clean clinical UI and maintainability
+- Download on the App Store
+
+### 💼 Commercial Experience (NDA)
+
+- Developed and maintained 7–8 iOS applications for companies
+- Worked on production apps with real users and business requirements
+- Experience with deadlines, refactoring, and legacy code
+- Full App Store lifecycle: development, testing, release, and updates
+- SwiftUI & UIKit in real-world, scalable projects
 
 -----
 
