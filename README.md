@@ -18,14 +18,14 @@ Experienced with 7–8 commercial iOS projects (NDA) and multiple App Store rele
 - Focused on smooth UX, animations, and real-time feedback
 - [Download on the App Store](https://apps.apple.com/kz/app/quizm-trivia-quiz-game/id6747933831)
 
-### Lymph Atlas (Nodes) - Clinical anatomy tool for doctors
+#### Lymph Atlas (Nodes) - Clinical anatomy tool for doctors
 - Production iOS app designed for medical professionals
 - Helps explore lymph node structures with clarity and precision
 - Built with SwiftUI & UIKit, MVVM, and modular architecture
 - Emphasis on clean clinical UI and maintainability
 - [Download on the App Store](https://apps.apple.com/kz/app/lymph-atlas/id6755073576)
 
-### 💼 Commercial Experience (NDA)
+#### 💼 Commercial Experience (NDA)
 
 - Developed and maintained 7–8 iOS applications for companies
 - Worked on production apps with real users and business requirements
