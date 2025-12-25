@@ -1,4 +1,4 @@
-### 👋🏻 Hi, I'm Elijah
+### 👋🏻 Hi, I'm Elijah 
 ### ⌨️ iOS Engineer | Swift · SwiftUI · UIKit
 
 iOS Engineer with commercial experience building apps for companies worldwide and shipping personal products to the App Store.
