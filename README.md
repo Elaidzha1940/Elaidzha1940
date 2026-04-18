@@ -35,7 +35,7 @@ struct Elaidzha: iOSEngineer {
 }
 ```
 
-iOS Engineer with commercial experience building apps for companies worldwide and shipping personal products to the App Store. Focused on performance, clean architecture, and smooth user experience in production apps.
+iOS Engineer with hands-on commercial experience delivering production-ready applications from architecture design to App Store release. Skilled in building scalable SwiftUI/UIKit solutions, integrating Apple frameworks, optimizing performance, and maintaining clean, extensible codebases for real users.
 
 ---
 
@@ -54,7 +54,7 @@ iOS Engineer with commercial experience building apps for companies worldwide an
 
 - 🏢 **7–8 production iOS apps** for companies worldwide *(under NDA)*
 - 📦 Full App Store lifecycle: development → testing → release → updates
-- 🔧 Refactoring, legacy code, tight deadlines — all handled
+- 🔧 Refactoring, legacy code, tight deadlines - all handled
 - ⚡ SwiftUI & UIKit in production at scale, real users, real business requirements
 
 ---
