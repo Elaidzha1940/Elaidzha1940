@@ -25,7 +25,7 @@ struct Elaidzha: iOSEngineer {
     let role         = "iOS Engineer"
     let stack        = ["Swift", "SwiftUI", "UIKit", "Combine", "CoreData"]
     let architecture = ["MVVM", "Clean Architecture", "Modular Design"]
-    let shipped      = "3 apps live on the App Store 🍎"
+    let shipped      = "3 apps live on the App Store"
     let experience   = "7–8 commercial projects (NDA)"
     let focus        = "Performance · Clean Code · Smooth UX"
 
@@ -44,7 +44,7 @@ iOS Engineer with commercial experience building apps for companies worldwide an
 | 🧠 Procky | 🎯 QuizM | 🫁 Lymph Atlas |
 |:---:|:---:|:---:|
 | **App Blocker & Focus** | **Trivia & Quiz Game** | **Clinical Anatomy Tool** |
-| Block apps. Boost focus. Break the doom-scroll habit with micro-tasks and awareness. | Sleek trivia experience with Lottie animations, haptics, and real-time feedback. | Precision-built for medical professionals to explore lymph node structures. |
+| Built using Screen Time API, SwiftUI, local state persistence, and app restriction workflows. | Built with SwiftUI, Combine, Lottie animations, haptic feedback, and dynamic quiz state management. | Precision-built for medical professionals to explore lymph node structures. |
 | `SwiftUI` `Screen Time API` | `SwiftUI` `Combine` `Lottie` | `SwiftUI` `UIKit` `MVVM` |
 | [![App Store](https://img.shields.io/badge/Download-0891b2?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kz/app/procky-app-blocker-focus/id6761297337) | [![App Store](https://img.shields.io/badge/Download-0891b2?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kz/app/quizm-trivia-quiz-game/id6747933831) | [![App Store](https://img.shields.io/badge/Download-0891b2?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kz/app/lymph-atlas/id6755073576) |
 
