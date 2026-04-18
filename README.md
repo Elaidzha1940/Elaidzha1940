@@ -51,11 +51,11 @@ iOS Engineer with hands-on commercial experience delivering production-ready app
 ---
 
 ## 💼 Commercial Experience
-
-- 🏢 **7–8 production iOS apps** for companies worldwide *(under NDA)*
-- 📦 Full App Store lifecycle: development → testing → release → updates
-- 🔧 Refactoring, legacy code, tight deadlines - all handled
-- ⚡ SwiftUI & UIKit in production at scale, real users, real business requirements
+- 🏢 Delivered 7+ production iOS applications for international clients (under NDA)
+- 📦 Managed full feature lifecycle: architecture → implementation → testing → release
+- ⚡ Optimized app performance, refactored legacy modules, and delivered features under tight deadlines
+- 🧩 Built reusable SwiftUI/UIKit components to improve maintainability and speed up development
+- 🔧 Worked with real business requirements, production users, and scalable app architectures
 
 ---
 
