@@ -17,10 +17,20 @@ struct Elaidzha: iOSEngineer {
 }
 ```
 
-iOS Engineer with end-to-end production experience — from architecture decisions to App Store release.
+iOS Engineer with end-to-end production experience - from architecture decisions to App Store release.
 I build scalable SwiftUI/UIKit applications, work with real business constraints, and care about code that holds up over time.
 
 Available for full-time and contract roles. Open to remote.
+
+---
+
+## How I Work
+
+I think about architecture before I write the first line. Not because it's required — because code that isn't designed tends to collapse quietly, and usually at the worst time.
+
+I treat the App Store as a real feedback loop, not a finish line. Shipping is where the actual work begins.
+
+I prefer small, composable pieces over clever monoliths. Code should be readable by the next person — or by me, six months later.
 
 ---
 
