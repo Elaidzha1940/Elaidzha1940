@@ -1,4 +1,4 @@
-# Elaidzha Shchukin — iOS Engineer
+# Elaidzha Shchukin - iOS Engineer
 
 Swift · SwiftUI · UIKit · Combine · Clean Architecture
 
