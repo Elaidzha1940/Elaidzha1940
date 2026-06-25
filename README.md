@@ -1,6 +1,6 @@
-# Elaidzha Shchukin - iOS Engineer
+# 👋 Hi, I'm Elaidzha Shchukin
 
-Swift · SwiftUI · UIKit · Combine · Clean Architecture
+iOS Engineer · Swift · SwiftUI · UIKit · Combine · Clean Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaidzha-shchukin-9a1954176/)
 [![GitHub](https://img.shields.io/badge/GitHub-1c1917?style=flat-square&logo=github&logoColor=white)](https://www.github.com/Elaidzha1940)
@@ -17,20 +17,9 @@ struct Elaidzha: iOSEngineer {
 }
 ```
 
-iOS Engineer with end-to-end production experience - from architecture decisions to App Store release.
-I build scalable SwiftUI/UIKit applications, work with real business constraints, and care about code that holds up over time.
+I design architecture before writing the first line, ship to production, and keep things composable enough that the next engineer isn't cursing my name. End-to-end iOS — from blank Xcode project to live App Store release.
 
 Available for full-time and contract roles. Open to remote.
-
----
-
-## How I Work
-
-I think about architecture before I write the first line. Not because it's required — because code that isn't designed tends to collapse quietly, and usually at the worst time.
-
-I treat the App Store as a real feedback loop, not a finish line. Shipping is where the actual work begins.
-
-I prefer small, composable pieces over clever monoliths. Code should be readable by the next person — or by me, six months later.
 
 ---
 
