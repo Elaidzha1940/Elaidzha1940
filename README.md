@@ -6,6 +6,18 @@
 
 <br/>
 
+### 🚀 Available for iOS Opportunities
+
+*Open to full-time roles, contract work, and indie collaborations.*
+
+<br/>
+
+📱 **3 Apps published on the App Store**  
+💼 **8+ commercial projects delivered**  
+🎯 **5+ years building iOS applications**
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaidzha-shchukin-9a1954176/)
 [![GitHub](https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Elaidzha1940)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/elid.ev)
@@ -26,16 +38,25 @@ struct Elaidzha: iOSEngineer {
     let stack        = ["Swift", "SwiftUI", "UIKit", "Combine", "CoreData"]
     let architecture = ["MVVM", "Clean Architecture", "Modular Design"]
     let shipped      = "3 apps live on the App Store"
-    let experience   = "7–8 commercial projects (NDA)"
+    let experience   = "Contributed to 8+ commercial iOS applications"
     let focus        = "Performance · Clean Code · Smooth UX"
 
     var currentlyBuilding: String {
-        "something new 👀"
+        "New SwiftUI products and indie apps"
     }
 }
 ```
 
 iOS Engineer with hands-on commercial experience delivering production-ready applications from architecture design to App Store release. Skilled in building scalable SwiftUI/UIKit solutions, integrating Apple frameworks, optimizing performance, and maintaining clean, extensible codebases for real users.
+
+---
+
+## 🚀 What I Do
+
+- Build production iOS applications with SwiftUI and UIKit  
+- Publish and maintain indie apps on the App Store  
+- Design scalable MVVM and Clean Architecture solutions  
+- Available for full-time and freelance opportunities  
 
 ---
 
