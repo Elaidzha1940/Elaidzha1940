@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0d1117&height=200&section=header&text=Elaidzha%20Shchukin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20%C2%B7%20SwiftUI%20%C2%B7%20UIKit&descAlignY=60&descSize=18&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0d1117&height=160&section=header&text=Elaidzha%20Shchukin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20UIKit&descAlignY=58&descSize=16&descColor=94a3b8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+polished+iOS+experiences+%F0%9F%9A%80;3+apps+live+on+the+App+Store+%F0%9F%8D%8E;SwiftUI+%2B+UIKit+%2B+Clean+Architecture;Shipping+real+products+for+real+users)](https://git.io/typing-svg)
-
-<br/>
-
-### 🚀 Available for iOS Opportunities
-
-*Open to full-time roles, contract work, and indie collaborations.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Senior-level+iOS+engineering+with+production+focus;SwiftUI+%2B+UIKit+%2B+Clean+Architecture;Building+scalable+apps+used+by+real+users;Shipping+and+maintaining+App+Store+products)](https://git.io/typing-svg)
 
 <br/>
 
-📱 **3 Apps published on the App Store**  
-💼 **8+ commercial projects delivered**  
-🎯 **5+ years building iOS applications**
+### 🚀 Open to iOS Engineering Roles
+
+*Full-time · Contract · Product-focused teams*
+
+<br/>
+
+📱 **3 Apps on the App Store**  
+💼 **8+ production iOS applications delivered**  
+🏗 **5+ years building production iOS systems**
 
 <br/>
 
