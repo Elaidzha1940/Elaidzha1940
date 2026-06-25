@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elijah
+## 👋 Hi, I'm Elijah
 
 iOS Engineer · Swift · SwiftUI · UIKit · Combine · Clean Architecture
 
@@ -17,7 +17,7 @@ struct Elaidzha: iOSEngineer {
 }
 ```
 
-I design architecture before writing the first line, ship to production, and keep things composable enough that the next engineer isn't cursing my name. End-to-end iOS — from blank Xcode project to live App Store release.
+I design architecture before writing the first line, ship to production, and keep things composable enough that the next engineer isn't cursing my name. End-to-end iOS - from blank Xcode project to live App Store release.
 
 Available for full-time and contract roles. Open to remote.
 
