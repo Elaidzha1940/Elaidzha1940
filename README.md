@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elaidzha Shchukin
+# 👋 Hi, I'm Elijah
 
 iOS Engineer · Swift · SwiftUI · UIKit · Combine · Clean Architecture
 
